@@ -10,13 +10,9 @@ The project implement a simulation that can assist to study the [birthday parado
 The Jupyter file included the detail explanation of the code and methods. Overview process:
 - Testing the sample size 1000, 20000, 100000 is sufficient to for a reliable random samples yet not over too many samples that may slow down the system.
 - With the balance 20000 samples is choosen, the calculation can be determine with the 26 person will be sufficient to get 0.5 chance that 3 person will have same birthday week
-- To enhance the simulation, a list and a graph are plotted to allow the user to get the relationship between probability vs number of person in a room.
+- To enhance the simulation, a list and a graph are plotted to allow the user to get the relationship between probability vs number of person in a room without need to run the code again.
 
-
-
-
-
-
+![Graph1](https://user-images.githubusercontent.com/66557889/123448536-9b19a480-d60d-11eb-8b16-fa4aa23f132c.JPG)
 
 
 
